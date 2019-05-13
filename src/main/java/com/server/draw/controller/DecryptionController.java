@@ -40,11 +40,9 @@ public class DecryptionController {
         }
 
         //小程序唯一标识   (在微信小程序管理后台获取)
-        String wxspAppid = "wx67cbe332dcd65587";
-        //String wxspAppid = "wx785f4c831ef501fc";
+        String wxspAppid = "wxccc4b50178d4dd0e";
         //小程序的 app secret (在微信小程序管理后台获取)
-        String wxspSecret = "3d40d5047940e1117fa8fd9b2273e9b5";
-        //String wxspSecret = "7255946a22e9421383381b22e681f607";
+        String wxspSecret = "cb50a40bb3a305dde42d8d1da99defdd";
         //授权（必填）
         String grant_type = "authorization_code";
 

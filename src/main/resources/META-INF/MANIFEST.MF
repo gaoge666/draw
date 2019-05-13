@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: hibernate-core-5.2.16.Final.jar tomcat-embed-websocket-8.5
+ .29.jar jandex-2.0.3.Final.jar spring-beans-5.0.5.RELEASE.jar commons
+ -codec-1.10.jar spring-boot-starter-data-jpa-2.0.1.RELEASE.jar snakey
+ aml-1.19.jar fastjson-1.2.15.jar tomcat-embed-el-8.5.29.jar spring-bo
+ ot-starter-json-2.0.1.RELEASE.jar aspectjweaver-1.8.13.jar hibernate-
+ jpa-2.1-api-1.0.0.Final.jar jackson-datatype-jdk8-2.9.5.jar postgresq
+ l-9.4-1206-jdbc42.jar spring-expression-5.0.5.RELEASE.jar spring-boot
+ -starter-web-2.0.1.RELEASE.jar jackson-annotations-2.9.0.jar spring-j
+ cl-5.0.5.RELEASE.jar spring-context-5.0.5.RELEASE.jar spring-webmvc-5
+ .0.5.RELEASE.jar spring-boot-starter-tomcat-2.0.1.RELEASE.jar spring-
+ boot-starter-jdbc-2.0.1.RELEASE.jar spring-tx-5.0.5.RELEASE.jar jacks
+ on-datatype-jsr310-2.9.5.jar spring-web-5.0.5.RELEASE.jar spring-data
+ -commons-2.0.6.RELEASE.jar hibernate-validator-6.0.9.Final.jar valida
+ tion-api-2.0.1.Final.jar spring-core-5.0.5.RELEASE.jar spring-messagi
+ ng-5.0.5.RELEASE.jar spring-boot-devtools-2.0.1.RELEASE.jar antlr-2.7
+ .7.jar dom4j-1.6.1.jar spring-data-jpa-2.0.6.RELEASE.jar log4j-1.2.16
+ .jar classmate-1.3.4.jar spring-websocket-5.0.5.RELEASE.jar jackson-m
+ odule-parameter-names-2.9.5.jar spring-boot-starter-2.0.1.RELEASE.jar
+  jboss-logging-3.3.2.Final.jar spring-boot-starter-aop-2.0.1.RELEASE.
+ jar hibernate-commons-annotations-5.0.1.Final.jar javax.transaction-a
+ pi-1.2.jar HikariCP-2.7.8.jar tomcat-embed-core-8.5.29.jar bcprov-jdk
+ 16-1.45.jar spring-boot-starter-websocket-1.5.12.RELEASE.jar spring-a
+ op-5.0.5.RELEASE.jar javassist-3.22.0-GA.jar slf4j-log4j12-1.6.1.jar 
+ jackson-databind-2.9.5.jar javax.annotation-api-1.3.2.jar spring-boot
+ -autoconfigure-2.0.1.RELEASE.jar spring-boot-2.0.1.RELEASE.jar spring
+ -aspects-5.0.5.RELEASE.jar spring-orm-5.0.5.RELEASE.jar jackson-core-
+ 2.9.5.jar slf4j-api-1.7.25.jar spring-jdbc-5.0.5.RELEASE.jar
+Main-Class: com.server.draw.DrawApplication
+
